@@ -1,0 +1,15 @@
+__pycache__/
+**/__pycache__
+*.py[cod]
+*$py.class
+
+logs/
+outputs/
+wandb/
+*.pyc
+
+.vscode/settings.json
+.idea/
+.ipynb_checkpoints/
+*.ipynb
+*.log
