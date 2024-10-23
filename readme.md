@@ -62,5 +62,10 @@ python evaluate_tsp.py
 ```
 
 ## Citation and Credits
-If you find our paper/code useful in your research, please citing: Coming soon.
+If you find our paper/code useful in your research, please citing:
+@inproceedings{lu2023roco,
+  title={Roco: A general framework for evaluating robustness of combinatorial optimization solvers on graphs},
+  author={Lu, Han and Li, Zenan and Wang, Runzhong and Ren, Qibing and Li, Xijun and Yuan, Mingxuan and Zeng, Jia and Yang, Xiaokang and Yan, Junchi},
+  booktitle={The Eleventh International Conference on Learning Representations}
+}
 
